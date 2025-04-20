@@ -1,0 +1,27 @@
+{
+  "name": "ice-cream-website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@fontsource-variable/dm-sans": "^5.2.5",
+    "@fontsource-variable/kalnia": "^5.2.6",
+    "@fontsource/playball": "^5.2.5",
+    "@tailwindcss/vite": "^4.1.4",
+    "remixicon": "^4.6.0",
+    "scrollreveal": "^4.0.9",
+    "swiper": "^11.2.6",
+    "tailwindcss": "^4.1.4",
+    "vite": "^6.3.1"
+  },
+  "dependencies": {
+    "@fontsource/kalnia": "^5.2.6",
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11"
+  }
+}
